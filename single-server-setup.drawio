@@ -5,13 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-1" parent="1" style="aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" value="" vertex="1">
-          <mxGeometry height="54.900000000000006" width="55.800000000000004" x="557" y="100" as="geometry" />
+          <mxGeometry height="101.14" width="102.8" x="401" y="100" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="350" x="400" y="40" as="geometry" />
         </mxCell>
         <mxCell id="Se25Hm62w28aUl5C-Pwz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SINGLE SERVER SETUP - Everything on one machine" vertex="1">
           <mxGeometry height="30" width="330" x="410" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-5" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="412.4" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-10" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Web_browsers-2003/Firefox-1122.png;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="128" width="128" x="82" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-11" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.console_mobile_application;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="112" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-12" parent="1" style="aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.webplus_web_app_service;" value="" vertex="1">
+          <mxGeometry height="110" width="110" x="721" y="169" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
