@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-1" parent="1" style="aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" value="" vertex="1">
+          <mxGeometry height="54.900000000000006" width="55.800000000000004" x="557" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="350" x="400" y="40" as="geometry" />
+        </mxCell>
         <mxCell id="Se25Hm62w28aUl5C-Pwz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SINGLE SERVER SETUP - Everything on one machine" vertex="1">
-          <mxGeometry height="30" width="480" x="340" y="40" as="geometry" />
+          <mxGeometry height="30" width="330" x="410" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
