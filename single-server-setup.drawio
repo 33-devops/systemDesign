@@ -37,7 +37,7 @@
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="118" width="90" x="981.14" y="368" as="geometry" />
         </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Domain Name System&lt;div&gt;A record: app.ekrown.com -&amp;gt; 203.0.113.10&lt;/div&gt;" vertex="1">
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Domain Name System&lt;div&gt;A record: app.example.com -&amp;gt; 203.0.113.10&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="156.2" x="506" y="119.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Web APP - HTML/CSS/JS" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Single server - 203.0.113.10" vertex="1">
           <mxGeometry height="30" width="192.57" x="798" y="111.14" as="geometry" />
         </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1 -&amp;gt; resolve app.ekrown.com" vertex="1">
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1 -&amp;gt; resolve app.example.com" vertex="1">
           <mxGeometry height="30" width="120" x="270" y="120" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2 &amp;lt;- IP [203.0.113.10] returned" vertex="1">
