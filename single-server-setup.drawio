@@ -17,10 +17,10 @@
           <mxGeometry height="101.14" width="102.8" x="401" y="100" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-4" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="30" width="350" x="400" y="40" as="geometry" />
+          <mxGeometry height="50" width="460" x="290" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="Se25Hm62w28aUl5C-Pwz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SINGLE SERVER SETUP - Everything on one machine" vertex="1">
-          <mxGeometry height="30" width="330" x="410" y="40" as="geometry" />
+        <mxCell id="Se25Hm62w28aUl5C-Pwz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SINGLE SERVER SETUP - Everything on one machine&lt;div&gt;Simple and cheap but no redundancy. If this server fails, the whole system is down&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="443" x="297" y="40" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-5" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="412.4" y="288" as="geometry" />
