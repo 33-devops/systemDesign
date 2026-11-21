@@ -46,11 +46,23 @@
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="app.ekrown.com" vertex="1">
           <mxGeometry height="30" width="140" x="382.4" y="368" as="geometry" />
         </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="web app - HTML/CCS/JS" vertex="1">
-          <mxGeometry height="30" width="140" x="711.66" y="279" as="geometry" />
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Web APP - HTML/CCS/JS" vertex="1">
+          <mxGeometry height="30" width="149.34" x="707" y="287" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API - JSON" vertex="1">
           <mxGeometry height="30" width="140" x="721" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Database" vertex="1">
+          <mxGeometry height="30" width="140" x="962.5699999999999" y="486" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cache" vertex="1">
+          <mxGeometry height="30" width="140" x="956.14" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile APP" vertex="1">
+          <mxGeometry height="30" width="140" x="76" y="458" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Web browser" vertex="1">
+          <mxGeometry height="30" width="140" x="73" y="279" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
