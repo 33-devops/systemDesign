@@ -8,7 +8,7 @@
           <mxGeometry height="378.86" width="443" x="677" y="141.14" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#97D077);" value="" vertex="1">
-          <mxGeometry height="378.86" width="200" x="43" y="130" as="geometry" />
+          <mxGeometry height="378.86" width="180" x="60" y="130" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-1" parent="1" style="aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_domain_name_system;" value="" vertex="1">
           <mxGeometry height="101.14" width="102.8" x="401" y="100" as="geometry" />
@@ -80,6 +80,42 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="452.44" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Clients" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Single server" vertex="1">
+          <mxGeometry height="30" width="120" x="842.57" y="111.14" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="resolved domain [app.ekrown.com]" vertex="1">
+          <mxGeometry height="30" width="110" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP [203.101.10.125] returned" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="169" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API call" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="417" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="JSON response" vertex="1">
+          <mxGeometry height="30" width="90" x="560" y="478.86" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTTP request" vertex="1">
+          <mxGeometry height="30" width="101.14" x="260" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HTML page" vertex="1">
+          <mxGeometry height="30" width="80" x="580" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="40" x="312.4" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="40" x="210" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="30" width="40" x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4" vertex="1">
+          <mxGeometry height="30" width="40" x="590" y="244.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
