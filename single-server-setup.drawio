@@ -85,11 +85,11 @@
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Single server - 203.101.10.125" vertex="1">
           <mxGeometry height="30" width="192.57" x="798" y="111.14" as="geometry" />
         </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="resolved domain [app.ekrown.com]" vertex="1">
-          <mxGeometry height="30" width="110" x="280" y="120" as="geometry" />
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1 -&amp;gt; resolved domain [app.ekrown.com]" vertex="1">
+          <mxGeometry height="30" width="120" x="270" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP [203.101.10.125] returned" vertex="1">
-          <mxGeometry height="30" width="60" x="230" y="169" as="geometry" />
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2 &amp;lt;- IP [203.101.10.125] returned" vertex="1">
+          <mxGeometry height="30" width="60" x="248" y="169" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3 -&amp;gt; API call" vertex="1">
           <mxGeometry height="30" width="80" x="280" y="417.86" as="geometry" />
@@ -99,12 +99,6 @@
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3 -&amp;gt; HTTP GET&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="133.33" x="240" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
-          <mxGeometry height="30" width="40" x="312.4" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="UTvGt3_7D0bn5xvRBGY4-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
-          <mxGeometry height="30" width="40" x="210" y="150" as="geometry" />
         </mxCell>
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A record - 203.101.10.125" vertex="1">
           <mxGeometry height="30" width="149.34" x="470" y="271" as="geometry" />
