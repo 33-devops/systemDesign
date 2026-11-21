@@ -46,6 +46,12 @@
         <mxCell id="UTvGt3_7D0bn5xvRBGY4-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="app.ekrown.com" vertex="1">
           <mxGeometry height="30" width="140" x="382.4" y="368" as="geometry" />
         </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="web app - HTML/CCS/JS" vertex="1">
+          <mxGeometry height="30" width="140" x="711.66" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="UTvGt3_7D0bn5xvRBGY4-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API - JSON" vertex="1">
+          <mxGeometry height="30" width="140" x="721" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
