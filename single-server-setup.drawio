@@ -170,10 +170,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BuTaL3ELfWdz65dbrgSp-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Browser" vertex="1">
-          <mxGeometry height="30" width="60" x="264" y="368" as="geometry" />
+          <mxGeometry height="30" width="60" x="264" y="362" as="geometry" />
         </mxCell>
-        <mxCell id="BuTaL3ELfWdz65dbrgSp-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile" vertex="1">
-          <mxGeometry height="30" width="60" x="80" y="438" as="geometry" />
+        <mxCell id="BuTaL3ELfWdz65dbrgSp-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile [Browser]" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="442" as="geometry" />
         </mxCell>
         <mxCell id="BuTaL3ELfWdz65dbrgSp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="248" as="geometry" />
