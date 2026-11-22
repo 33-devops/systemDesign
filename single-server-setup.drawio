@@ -212,7 +212,7 @@
           <mxGeometry height="116" width="118" x="690" y="408" as="geometry" />
         </mxCell>
         <mxCell id="oPzG08CkZJA-up9zMAIP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Load balancer - 203.0.113.10&lt;div&gt;[Algorithm + health checks]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="160" x="450" y="378" as="geometry" />
+          <mxGeometry height="30" width="160" x="450" y="236.4" as="geometry" />
         </mxCell>
         <mxCell id="mwX_XY09ECzE6guI1y3U-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1 -&amp;gt; resolve app.example.com" vertex="1">
           <mxGeometry height="30" width="118" x="380" y="151" as="geometry" />
@@ -229,8 +229,8 @@
         <mxCell id="fUv5fFctUfFBMp9BIxiI-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APP Server 2" vertex="1">
           <mxGeometry height="30" width="82" x="709" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="fUv5fFctUfFBMp9BIxiI-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APP Server 3&lt;div&gt;Auto-scaling&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="82" x="708" y="377" as="geometry" />
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APP Server 3&lt;div&gt;[ Added by auto-scaling]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="143" x="672" y="377" as="geometry" />
         </mxCell>
         <mxCell id="fUv5fFctUfFBMp9BIxiI-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Web tier [Stateless]" vertex="1">
           <mxGeometry height="30" width="128" x="687" y="73" as="geometry" />
@@ -240,6 +240,18 @@
         </mxCell>
         <mxCell id="fUv5fFctUfFBMp9BIxiI-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Database&lt;div&gt;Shared cache&amp;nbsp;/ session stored&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="88.01" x="910" y="368.6" as="geometry" />
+        </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-10" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.healthy;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="511.8" y="443.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Health check server" vertex="1">
+          <mxGeometry height="30" width="88.01" x="492.79" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-12" edge="1" parent="1" source="BuTaL3ELfWdz65dbrgSp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#147EBA;fontStyle=0;defaultLabelBackgroundColor=page;labelPadding=0 4;elbow=vertical;startArrow=classic;startFill=1;" target="fUv5fFctUfFBMp9BIxiI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4 &amp;lt;-&amp;gt; To health check server" vertex="1">
+          <mxGeometry height="30" width="60" x="482" y="398.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
