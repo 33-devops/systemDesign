@@ -135,7 +135,7 @@
           <mxGeometry height="40" width="420" x="320" y="30" as="geometry" />
         </mxCell>
         <mxCell id="hsdlC8OnRXGIXywkN36E-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="WEB / DATA TIER SPLIT [+ Horizontal scaling behind a load balancer]&lt;div&gt;NOTE: Still single points of failure [SPOFs]: one load-balancer one database&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="400" x="330" y="35" as="geometry" />
+          <mxGeometry height="30" width="410" x="325" y="35" as="geometry" />
         </mxCell>
         <mxCell id="4SHkqXehUutiTlo2dUsJ-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="70" width="40" x="90" y="368" as="geometry" />
