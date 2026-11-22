@@ -220,6 +220,15 @@
         <mxCell id="fUv5fFctUfFBMp9BIxiI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3 -&amp;gt; HTTPS GET&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="100" x="372" y="344" as="geometry" />
         </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APP Server 1" vertex="1">
+          <mxGeometry height="30" width="82" x="708" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APP Server 2" vertex="1">
+          <mxGeometry height="30" width="82" x="709" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="fUv5fFctUfFBMp9BIxiI-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="APP Server 3&lt;div&gt;Auto-scaling&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="82" x="708" y="377" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
