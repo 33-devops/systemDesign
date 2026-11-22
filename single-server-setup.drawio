@@ -211,13 +211,13 @@
         <mxCell id="5g94vLwPulb7SHAjK1aJ-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=light-dark(#000000,#3333FF);" value="" vertex="1">
           <mxGeometry height="116" width="118" x="690" y="408" as="geometry" />
         </mxCell>
-        <mxCell id="oPzG08CkZJA-up9zMAIP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Load balancer&lt;div&gt;[Algorithm + health checks]&lt;/div&gt;" vertex="1">
+        <mxCell id="oPzG08CkZJA-up9zMAIP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Load balancer - 203.0.113.10&lt;div&gt;[Algorithm + health checks]&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="450" y="378" as="geometry" />
         </mxCell>
         <mxCell id="mwX_XY09ECzE6guI1y3U-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1 -&amp;gt; resolve app.example.com" vertex="1">
           <mxGeometry height="30" width="118" x="380" y="151" as="geometry" />
         </mxCell>
-        <mxCell id="OFws-TpqZFRPSHK8Np8--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2 &amp;lt;- IP [203.0.113.10] returned" vertex="1">
+        <mxCell id="OFws-TpqZFRPSHK8Np8--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2 &amp;lt;- IP returned" vertex="1">
           <mxGeometry height="30" width="60" x="360" y="266.4" as="geometry" />
         </mxCell>
         <mxCell id="fUv5fFctUfFBMp9BIxiI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3 -&amp;gt; HTTPS GET&amp;nbsp;" vertex="1">
