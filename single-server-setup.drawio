@@ -336,6 +336,12 @@
         <mxCell id="rFC9jVvg-BDtOJWrwG7b-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Client C" vertex="1">
           <mxGeometry height="30" width="60" x="105" y="75" as="geometry" />
         </mxCell>
+        <mxCell id="rFC9jVvg-BDtOJWrwG7b-32" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#3333FF);strokeColor=light-dark(#000000,#3333FF);" value="" vertex="1">
+          <mxGeometry height="37" width="340" x="430" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="rFC9jVvg-BDtOJWrwG7b-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSISTENT HASHING: servers and clients on a hash ring" vertex="1">
+          <mxGeometry height="30" width="340" x="430" y="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
