@@ -297,6 +297,9 @@
         <mxCell id="rFC9jVvg-BDtOJWrwG7b-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Server 4&lt;div&gt;[New server added]&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="111" x="212" y="524" as="geometry" />
         </mxCell>
+        <mxCell id="rFC9jVvg-BDtOJWrwG7b-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="hash ring&lt;div&gt;[0 ... 2&lt;sup&gt;32&lt;/sup&gt;]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="237.5" y="276" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
