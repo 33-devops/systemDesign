@@ -354,20 +354,14 @@
         <mxCell id="rFC9jVvg-BDtOJWrwG7b-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;dashed=1;" value="" vertex="1">
           <mxGeometry height="12" width="12" x="423" y="424" as="geometry" />
         </mxCell>
-        <mxCell id="rFC9jVvg-BDtOJWrwG7b-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Before &#39;Server 4&#39; added&lt;div&gt;…move [Client B: Server 3 → Server 4]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="220" x="195" y="342" as="geometry" />
+        <mxCell id="rFC9jVvg-BDtOJWrwG7b-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Before Server 4:&lt;div&gt;Client B → Server 3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="163" y="350" as="geometry" />
         </mxCell>
         <mxCell id="rFC9jVvg-BDtOJWrwG7b-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=none;strokeColor=light-dark(#000000,#3333FF);dashed=1;" value="" vertex="1">
           <mxGeometry height="106" width="111" x="248" y="420" as="geometry" />
         </mxCell>
         <mxCell id="rFC9jVvg-BDtOJWrwG7b-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="↻ clockwise" vertex="1">
           <mxGeometry height="30" width="90" x="150" y="156.23" as="geometry" />
-        </mxCell>
-        <mxCell id="rFC9jVvg-BDtOJWrwG7b-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="↻ clockwise" vertex="1">
-          <mxGeometry height="30" width="90" x="384" y="156.23" as="geometry" />
-        </mxCell>
-        <mxCell id="rFC9jVvg-BDtOJWrwG7b-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="↻ clockwise" vertex="1">
-          <mxGeometry height="30" width="90" x="380" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
